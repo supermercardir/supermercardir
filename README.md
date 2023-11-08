@@ -14,11 +14,11 @@ Minhas habilidades de programação incluem:
 
 - Python (Avançado)
 - C# (Avançado)
-- Rust (Avançado)
+- C++/C (Avançado)
 
 Tenho conhecimentos básicos em:
 
-- C++/C
+- java
 - Golang
 - Ruby
 
