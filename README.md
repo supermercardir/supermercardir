@@ -19,8 +19,7 @@ Minhas habilidades de programação incluem:
 Tenho conhecimentos básicos em:
 
 - java
-- Golang
-- Ruby
+- Rust
 
 ## Projetos no GitHub
 
@@ -32,7 +31,6 @@ Estou aberto a colaborações e sugestões sobre como ensinar programação de f
 
 ## Contato
 
-- **Telefone:** +55 62 98252-6369
 - **E-mail:** micael.megadeveloper@outlook.com
 
 ## Interesses Pessoais
