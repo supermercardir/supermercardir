@@ -15,9 +15,11 @@ Minhas habilidades de programação incluem:
 - Python (Avançado)
 - C# (Avançado)
 - C++/C (Avançado)
+- Fortran (Avançado)
 
 Tenho conhecimentos básicos em:
 
+- JavaScript
 - java
 - Rust
 
